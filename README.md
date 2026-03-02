@@ -1,5 +1,4 @@
 <img src="https://github.com/adarshhh082/adarshhh082/blob/main/assets/header.png" width="100%">
-
 <h1 align="center">👋 Hi, I'm <span style="color:#4F8EF7">Adarsh Mishra</span></h1>
 <h3 align="center">💼 Data Analyst | Python | SQL | Power BI | Data Visualization</h3>
 
