@@ -1,3 +1,7 @@
+<img src="https://github.com/adarshhh082/adarshhh082/blob/main/assets/header.png" width="100%">
+
+<h1 align="center">👋 Hi, I'm <span style="color:#4F8EF7">Adarsh Mishra</span></h1>
+<h3 align="center">💼 Data Analyst | Python | SQL | Power BI | Data Visualization</h3>
 # 💫 About Me:
 I'm a Data Analyst with a strong foundation in extracting meaningful patterns from complex datasets. I specialize in building interactive dashboards, automating reporting workflows, and delivering insights that drive business growth.<br><br>With expertise in Python, SQL, Power BI, and Excel, I bridge the gap between raw data and strategic decision-making. I thrive on transforming messy data into clean, compelling narratives that stakeholders can act on.
 
