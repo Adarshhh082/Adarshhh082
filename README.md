@@ -11,6 +11,36 @@ I'm a Data Analyst with a strong foundation in extracting meaningful patterns fr
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+---
+
+# 🚀 Projects
+
+## 📦 Retail Supply Chain Analytics  
+**Excel | SQL | Python | Power BI**
+
+- Analyzed 10,000+ records using SQL, Excel, and Python to track KPIs such as Sales, Profit Margin, Return Rate, and Delivery Lead Time.  
+- Developed an interactive Power BI dashboard with 5+ visualizations, improving reporting efficiency by 30%.  
+- Identified low-performing regions and operational bottlenecks, enabling data-driven business decisions.  
+
+---
+
+## 📚 E-Library Data Insight Dashboard  
+**Python | Pandas | Matplotlib**
+
+- Performed exploratory data analysis on 5,000+ transactions using Python (Pandas) to identify usage trends and peak demand periods.  
+- Created visual reports using Matplotlib to support resource planning and improve utilization efficiency.  
+
+---
+
+## 🎓 University Course Management System  
+**MySQL**
+
+- Designed a normalized relational database schema with 8+ tables using MySQL.  
+- Wrote complex SQL queries involving joins, aggregations, and constraints to manage student enrollments, courses, and faculty records.  
+- Ensured data integrity using primary keys, foreign keys, and normalization techniques.  
+
+---
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Adarshhh082&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Adarshhh082&theme=dark&hide_border=true)<br/>
